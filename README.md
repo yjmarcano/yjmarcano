@@ -1,3 +1,45 @@
+# ¡Bienvenido! Es un gusto saludarte. 👋
+
+Soy **Ingeniero en Informática** con una mentalidad híbrida: diseño software robusto y formo al talento técnico del futuro. Mi enfoque profesional se centra en transformar requerimientos de negocio en aplicaciones escalables, utilizando la docencia como mi mejor herramienta para garantizar que el código sea limpio, documentado y fácil de mantener.
+
+### 🛠️ Stack Tecnológico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/scrum-%23231f20.svg?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</p>
+
+---
+
+### 💬 Hablemos de tecnología
+Si buscas a alguien que no solo escriba código, sino que también sepa transmitir el conocimiento y optimizar procesos en equipo, ¡me encantaría conversar contigo!
+
+📫 **¿Cómo contactarme?**
+* **LinkedIn:** [Tu Enlace Aquí]
+* **Email:** [Tu Email Aquí]
+
+*¡Gracias por visitar mi perfil! Sigamos construyendo soluciones que impacten.*
+
+
 # 💫 About Me:
 ¡Bienvenido! Es un gusto saludarte. Soy Yndira Ingeniero en Informática con una mentalidad híbrida: diseño software robusto y formo al talento técnico del futuro. Mi enfoque profesional se centra en transformar requerimientos de negocio en aplicaciones escalables, utilizando la docencia como mi mejor herramienta para garantizar que el código sea limpio, documentado y fácil de mantener. Mi objetivo es aportar valor técnico mientras fortalezco la cultura de ingeniería dentro de la organización, combinando la precisión técnica con una comunicación clara y efectiva. ¿Buscas un perfil que impulse tanto tu código como tu equipo? ¡Hablemos! Puedes contactarme. Estoy lista para enfrentar nuevos desafíos y transformar ideas en soluciones de alto impacto. Muchas gracias por visitar mi perfil; ¡espero que pronto construyamos el futuro de la tecnología juntos! 🚀
 
