@@ -1,6 +1,5 @@
 # ¡Bienvenido! Es un gusto saludarte. 👋
-
-Soy **Ingeniero en Informática** con una mentalidad híbrida: diseño software robusto y formo al talento técnico del futuro. Mi enfoque profesional se centra en transformar requerimientos de negocio en aplicaciones escalables, utilizando la docencia como mi mejor herramienta para garantizar que el código sea limpio, documentado y fácil de mantener.
+Soy Yndira Ingeniero en Informática con una mentalidad híbrida: diseño software robusto y formo al talento técnico del futuro. Mi enfoque profesional se centra en transformar requerimientos de negocio en aplicaciones escalables, utilizando la docencia como mi mejor herramienta para garantizar que el código sea limpio, documentado y fácil de mantener. Mi objetivo es aportar valor técnico mientras fortalezco la cultura de ingeniería dentro de la organización, combinando la precisión técnica con una comunicación clara y efectiva. ¿Buscas un perfil que impulse tanto tu código como tu equipo? ¡Hablemos! Puedes contactarme. Estoy lista para enfrentar nuevos desafíos y transformar ideas en soluciones de alto impacto. Muchas gracias por visitar mi perfil; ¡espero que pronto construyamos el futuro de la tecnología juntos! 🚀
 
 ### 🛠️ Stack Tecnológico
 
@@ -29,23 +28,11 @@ Soy **Ingeniero en Informática** con una mentalidad híbrida: diseño software 
 </p>
 
 ---
-
 ### 💬 Hablemos de tecnología
 Si buscas a alguien que no solo escriba código, sino que también sepa transmitir el conocimiento y optimizar procesos en equipo, ¡me encantaría conversar contigo!
 
 📫 **¿Cómo contactarme?**
-* **LinkedIn:** [Tu Enlace Aquí]
-* **Email:** [Tu Email Aquí]
-
-*¡Gracias por visitar mi perfil! Sigamos construyendo soluciones que impacten.*
-
-
-# 💫 About Me:
-¡Bienvenido! Es un gusto saludarte. Soy Yndira Ingeniero en Informática con una mentalidad híbrida: diseño software robusto y formo al talento técnico del futuro. Mi enfoque profesional se centra en transformar requerimientos de negocio en aplicaciones escalables, utilizando la docencia como mi mejor herramienta para garantizar que el código sea limpio, documentado y fácil de mantener. Mi objetivo es aportar valor técnico mientras fortalezco la cultura de ingeniería dentro de la organización, combinando la precisión técnica con una comunicación clara y efectiva. ¿Buscas un perfil que impulse tanto tu código como tu equipo? ¡Hablemos! Puedes contactarme. Estoy lista para enfrentar nuevos desafíos y transformar ideas en soluciones de alto impacto. Muchas gracias por visitar mi perfil; ¡espero que pronto construyamos el futuro de la tecnología juntos! 🚀
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yndiramarc) 
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yndiramarc) 
 
 ### 🛠️ Languages and Tools:
 
@@ -78,4 +65,5 @@ Si buscas a alguien que no solo escriba código, sino que también sepa transmit
 [![](https://visitcount.itsvg.in/api?id=yjmarcano&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*¡Gracias por visitar mi perfil! Sigamos construyendo soluciones que impacten.*
 
