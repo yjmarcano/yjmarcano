@@ -1,3 +1,5 @@
+![https://github.com/Ivan270](https://raw.githubusercontent.com/Ivan270/Ivan270/main/ivan_banner.png)
+
 # ¡Bienvenido! Es un gusto saludarte. 👋
 Soy Yndira Ingeniero en Informática con una mentalidad híbrida: diseño software robusto y formo al talento técnico del futuro. Mi enfoque profesional se centra en transformar requerimientos de negocio en aplicaciones escalables, utilizando la docencia como mi mejor herramienta para garantizar que el código sea limpio, documentado y fácil de mantener. Mi objetivo es aportar valor técnico mientras fortalezco la cultura de ingeniería dentro de la organización, combinando la precisión técnica con una comunicación clara y efectiva. ¿Buscas un perfil que impulse tanto tu código como tu equipo? ¡Hablemos! Puedes contactarme. Estoy lista para enfrentar nuevos desafíos y transformar ideas en soluciones de alto impacto. Muchas gracias por visitar mi perfil; ¡espero que pronto construyamos el futuro de la tecnología juntos! 🚀
 
