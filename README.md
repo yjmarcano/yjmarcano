@@ -5,7 +5,7 @@ Soy Yndira Ingeniero en Informática con una mentalidad híbrida: diseño softwa
 Si buscas a alguien que no solo escriba código, sino que también sepa transmitir el conocimiento y optimizar procesos en equipo, ¡me encantaría conversar contigo!
 
 📫 **¿Cómo contactarme?**
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yndiramarc) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yndiramarc) 
 
 ### 🛠️ Languages and Tools:
 
