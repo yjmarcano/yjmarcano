@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://tu-repositorio.github.io/Screenshot_2.jpg" alt="Yndira Marcano Banner" width="800">
+  <img src="https://yjmarcano.github.io/Screenshot_2.jpg" alt="Yndira Marcano Banner" width="800">
 </p>
-
+![https://github.com/yjmarcano](https://raw.githubusercontent.com/yjmarcano/yjmarcano/main/Screenshot_2.jpg)
 <h1 align="center">¡Hola! Soy Yndira Marcano 👋</h1>
 
 <p align="center">
