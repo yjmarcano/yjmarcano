@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tu-repositorio.github.io/tu-imagen.png" alt="Yndira Marcano Banner" width="800">
+  <img src="https://tu-repositorio.github.io/Screenshot_2.jpg" alt="Yndira Marcano Banner" width="800">
 </p>
 
 <h1 align="center">¡Hola! Soy Yndira Marcano 👋</h1>
