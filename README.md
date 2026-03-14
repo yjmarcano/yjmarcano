@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://yjmarcano.github.io/Screenshot_2.jpg" alt="Yndira Marcano Banner" width="800">
-</p>
-![https://github.com/yjmarcano](https://raw.githubusercontent.com/yjmarcano/yjmarcano/main/Screenshot_2.jpg)
-<h1 align="center">¡Hola! Soy Yndira Marcano 👋</h1>
 
+ ![image alt](https://github.com/yjmarcano/yjmarcano/blob/77bf87f5b8e9f170b57805ba643d6a86badd5f24/yjmarcano.png)
+<h1 align="center">¡Hola! Soy Yndira Marcano 👋</h1>
 <p align="center">
   <strong>Ingeniera en Informática | Educadora Tecnológica | Facilitadora de Talento</strong>
 </p>
